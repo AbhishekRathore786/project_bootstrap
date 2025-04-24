@@ -1,0 +1,29 @@
+.nc{
+    margin-top:70px;
+    margin-left:100px;
+}
+.bt1{
+
+    margin:auto;
+    margin-top: 40px;
+}
+ /* .btn btn-outline-success{
+    
+ } */
+ .pagination{
+    margin-top:90px;
+    margin-left:42%;
+  }
+  .rang{
+    border: 1px solid black;
+    background-color: aliceblue;
+  }
+  .card :hover{
+    filter: grayscale(100%);
+  }
+  .m1{
+    display: flex;
+    width: 60%;
+    height: 200px;
+    border:2px solid black;
+  }

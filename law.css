@@ -1,0 +1,13 @@
+.card{
+    margin:30px;    
+    border: 2px solid black;
+    height: 15;
+}
+.card-body{
+    /* background-color: rgb(136, 173, 207); */
+    border: 2px solid black;
+}
+.card:hover {
+    transform: scale(1.05); /* Card ko 10% bada karega */
+}
+ 
